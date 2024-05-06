@@ -1,0 +1,21 @@
+# Xcode build files
+build/
+DerivedData/
+
+# Xcode workspace and user-specific settings
+*.xcworkspace/
+xcuserdata/
+
+Pods/
+Carthage/Build/
+
+*.app
+*.ipa
+*.xcarchive
+.DS_Store
+.Trashes
+.swiftpm/
+Package.resolved
+Config.plist
+*.log
+*.tmp
